@@ -16,4 +16,4 @@ Uma rede neural é composta de **neurônios artificiais** distribuídos em camad
 
 Treinar redes neurais pode ser um processo intensivo em termos de tempo e recursos computacionais, e problemas como **overfitting** e **subfitting** podem ocorrer se o modelo não for ajustado corretamente.
 
-**Autoria: Chat GPT**
+**Fonte: GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. Deep learning. Cambridge: MIT Press, 2016.**
